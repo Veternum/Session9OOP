@@ -3,6 +3,7 @@
 # Tujuan Program adalah untuk membuat simulasi Gacha
 
  Sampel Input:
+ 
    Pecorine 1 Physical
    
    Kyaru 1 Magical
