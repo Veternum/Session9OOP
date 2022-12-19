@@ -4,6 +4,7 @@
 
  Sampel Input:
    Pecorine 1 Physical
+   
    Kyaru 1 Magical
    Kokkoro 1 Physical
    Yukari 1 Physical
