@@ -21,8 +21,8 @@
    Rate 2*: 18
    Rate 3*: 5
  ```
- ```
  Data:
+ ```
   characterList.add(new Physical("Pecorine", 1, "Physical"));
   characterList.add(new Magical("Kyaru", 1, "Magical"));
   characterList.add(new Physical("Kokkoro", 1, "Physical"));
