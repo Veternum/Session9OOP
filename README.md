@@ -16,12 +16,12 @@
    Akari 2 Magical
    Muimi 3 Physical
    Neneka 3 Magical
- ```
 
    Rate 1*: 77
    Rate 2*: 18
    Rate 3*: 5
-
+ ```
+ ```
  Data:
   characterList.add(new Physical("Pecorine", 1, "Physical"));
   characterList.add(new Magical("Kyaru", 1, "Magical"));
@@ -39,3 +39,4 @@
   a = 77;
   b =  18;
   c = 5;
+ ```
